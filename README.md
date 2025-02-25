@@ -1,6 +1,6 @@
 # Tempmail: Your Self-Hosted Disposable Email Solution
 
-Welcome to the **tempmail** repository! Visit us at [tempmail.now](https://tempmail.now) for more details. This project offers a lightweight, self-hosted disposable email service designed to provide quick, temporary email addresses for testing, online registrations, and privacy protection. For support, please contact [support@tempmail.now](mailto:support@tempmail.now).
+Welcome to the [**tempmail**](https://tempmail.now) repository! Visit us at [tempmail.now](https://tempmail.now) for more details. This project offers a lightweight, self-hosted disposable email service designed to provide quick, temporary email addresses for testing, online registrations, and privacy protection. For support, please contact [support@tempmail.now](mailto:support@tempmail.now).
 
 In today's digital landscape, protecting your personal information and reducing spam are more important than ever. **tempmail** addresses these needs by offering an efficient and secure way to create temporary email addresses that expire after a set duration. Whether you’re a developer looking for a robust testing tool or a user in need of privacy, **tempmail** is your go-to solution.
 
